@@ -1,3 +1,5 @@
+#My First Discord Bot
+
 import os
 
 import discord
